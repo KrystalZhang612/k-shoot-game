@@ -101,7 +101,28 @@ Draw levels with coordinates and different targets and initialize enemies coordi
                 coords[i].pop(j)
                 points += 10 + 10 * (i ** 2)
 ```
-
+Now we can click the floating and moving targets to destroy them on board.
+## ***Draw Score:***
+```python3
+ def draw_score():
+    points_text = font.render(f'Points: {points}', True, 'black')
+    screen.blit(points_text, (320, 660))
+    shots_text = font.render(f'Total Shots: {total_shots}', True,
+'black')
+    screen.blit(shots_text, (320, 687))
+    time_text = font.render(f'Time Elasped: {time_passed}', True,
+'black')
+    screen.blit(time_text, (320, 714))
+    if mode == 0:
+        mode_text = font.render(f'Freeplay!', True, 'black')
+    if mode == 1:
+        mode_text = font.render(f'Ammo Remaining: {ammo}', True,
+'black')
+    if mode == 2:
+        mode_text = font.render(f'Time Remaining {time_remaining}',
+True, 'black')
+    screen.blit(mode_text, (320, 741))
+```
 
 
 
