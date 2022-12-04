@@ -83,10 +83,13 @@ Adjust guns sizes to be smaller guns to be at center with better accuracy target
 ```python3
 guns.append(pygame.transform.scale(pygame.image.load(f'assets/guns/{i} .png'), (100, 100)))
 ```
-
-
-
-
+[gun1.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/gun1.PNG)<br/> 
+[gun2.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/gun2.PNG)<br/> 
+[gun3.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/gun3.PNG)<br/>
+Draw levels with coordinates and different targets and initialize enemies coordinates:<br/> 
+[level1 birds.PNG]()<br/> 
+[level2 bubbles.PNG]()<br/> 
+[level3 alien spaceships.PNG]()<br/>
 
 
 
