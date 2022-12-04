@@ -123,6 +123,32 @@ Now we can click the floating and moving targets to destroy them on board.
 True, 'black')
     screen.blit(mode_text, (320, 741))
 ```
+[score drawed level1.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/score%20drawed%20level1.PNG)<br/> 
+[score drawed level2.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/score%20drawed%20level2.PNG)<br/> 
+[score drawed level3.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/score%20drawed%20level3.PNG)<br/>
+## ***Menu control and setup:***
+```python3
+def draw_menu():
+    global game_over, pause, mode, level, menu, time_passed,
+total_shots, points, ammo
+    global time_remaining, best_freeplay, best_ammo, best_timed,
+write_values, clicked, new_coords
+    game_over = False
+    pause = False
+```
+[menu control bar showed.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/menu%20control%20bsr%20showed.PNG)<br/> 
+Finally, Add pause, resume functionalities and background music in different levels.
+
+# Testing Result
+
+
+
+
+
+
+
+
+
 
 
 
