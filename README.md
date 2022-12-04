@@ -79,7 +79,10 @@ Draw guns and different colors of lasers with various positions:
         slope = (mouse_pos[1] - gun_point[1]) / (mouse_pos[0] -
 gun_point[0])
 ```
-
+Adjust guns sizes to be smaller guns to be at center with better accuracy targeting objects:
+```python3
+guns.append(pygame.transform.scale(pygame.image.load(f'assets/guns/{i} .png'), (100, 100)))
+```
 
 
 
