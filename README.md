@@ -52,7 +52,9 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
 
 # Prerequisites & Setups
 Upgrade pip in Vscode terminal:<br/> 
-`pip install --upgrade pip`<br/> 
+```bash
+pip install --upgrade pip
+```
 Install PyGame with pip:
 ```bash
 pip3 install pygame
