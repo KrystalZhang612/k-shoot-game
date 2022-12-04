@@ -60,6 +60,10 @@ Install PyGame with pip:
 pip3 install pygame
 ```
 # Synchronous Developing Notes
+Import PyGame in [main.py](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/main.py):
+```bash
+import pygame
+```
 
 
 
