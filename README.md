@@ -34,7 +34,8 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
 # Method to Run & Test the Project Locally
 ### Download the entire project to local directory
 ### Use CMD or local Console to navigate to the local directory of the project folder.
-### Run `python3 main.py runserver` to start running PyGame 
+### Run `python3 main.py runserver` to start running PyGame[macOS user]
+### Run `python main.py runserver` to start running PyGame[Windows and Linux user]
 ### Start playing KShoot Game and level up! Resume, pause and accumulate high scores anytime! Have fun!
 ### CTRL+C to quit the game and terminate local server. 
 
