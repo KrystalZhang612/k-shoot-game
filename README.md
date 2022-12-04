@@ -46,6 +46,7 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
 <div>
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title = "Python" width = "60" height = "60"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title = "Vscode" width = "60" height = "60"/>&nbsp;
+  <img src = "https://github.com/KrystalZhang612/images-attachments-collection/blob/main/pygame%20logo.PNG"  title = "PyGame" width = "60" height = "60"/>&nbsp;
   
 </div>
 
