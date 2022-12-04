@@ -65,9 +65,9 @@ Import PyGame in [main.py](https://github.com/KrystalZhang612/KrystalZhang-KShoo
 import pygame
 ```
 Initiate PyGame and import 3 levels of backgrounds so we got 3 levels of game backgrounds:<br/> 
-level1 background.PNG
-level2 background.PNG
-level3 background.PNG
+[level1 background.PNG]()<br/>
+[level2 background.PNG]()<br/> 
+[level3 background.PNG]()<br/> 
 
 
 
