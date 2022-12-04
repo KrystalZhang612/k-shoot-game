@@ -25,7 +25,7 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
 [Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
 [Prerequisites & Setups](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/README.md#prerequisites--setups)<br/> 
 [Synchronous Developing Notes](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/README.md#synchronous-developing-notes)<br/> 
-[Testing Result]()<br/> 
+[Testing Result](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/README.md#testing-result)<br/> 
 [Tags and Topics]()<br/>
 # Contribution
 [Author]()
@@ -140,6 +140,22 @@ write_values, clicked, new_coords
 Finally, Add pause, resume functionalities and background music in different levels.
 
 # Testing Result
+<p align = "center">
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level1%20background.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level2%20bakcground.PNG">&nbsp;
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level3%20background.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/gun1.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/gun2.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/gun3.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level1%20birds.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level2%20bubbles.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level3%20alien%20spaceships.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/score%20drawed%20level1.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/score%20drawed%20level2.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/score%20drawed%20level3.PNG">&nbsp; 
+  <img src = "https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/menu%20control%20bsr%20showed.PNG">&nbsp;
+</p>
+
 
 
 
