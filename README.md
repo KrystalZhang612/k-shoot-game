@@ -14,7 +14,7 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
 ### ***Please carefully read [LICENSE.md](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/LICENSE) about the Open Source restrictions and the personal use policy of this project under [GPL-3.0 license](https://www.gnu.org/licenses/gpl-3.0.en.html), any commericial uses on this project by other than the owner [@KrystalZhang612](https://github.com/KrystalZhang612) or the authorized users and organizations, will be subjected to copyright violation with sebsequent legal potential concerns.***
 ## KShoot Game App Overview:
 <p align = "center">
-  <img src = "https://user-images.githubusercontent.com/72481348/205469214-f4dd4aa8-a0d9-4c4e-a7a4-5422a839a147.mov">
+  <vid src = "https://user-images.githubusercontent.com/72481348/205469214-f4dd4aa8-a0d9-4c4e-a7a4-5422a839a147.mov">
 </p> 
 
 
