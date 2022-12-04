@@ -65,9 +65,30 @@ Import PyGame in [main.py](https://github.com/KrystalZhang612/KrystalZhang-KShoo
 import pygame
 ```
 Initiate PyGame and import 3 levels of backgrounds so we got 3 levels of game backgrounds:<br/> 
-[level1 background.PNG]()<br/>
-[level2 background.PNG]()<br/> 
-[level3 background.PNG]()<br/> 
+[level1 background.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level1%20background.PNG)<br/>
+[level2 background.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level2%20bakcground.PNG)<br/> 
+[level3 background.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level3%20background.PNG)<br/> 
+Draw guns and different colors of lasers with various positions:
+```python3
+ def draw_gun():
+    mouse_pos = pygame.mouse.get_pos()
+    gun_point = (WIDTH / 2, HEIGHT - 200)
+    lasers = ['red', 'purple', 'green']
+    clicks = pygame.mouse.get_pressed()
+    if mouse_pos[0] != gun_point[0]:
+        slope = (mouse_pos[1] - gun_point[1]) / (mouse_pos[0] -
+gun_point[0])
+```
+
+
+
+
+
+
+
+
+
+
 
 
 
