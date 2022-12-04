@@ -59,7 +59,7 @@ Install PyGame with pip:
 ```bash
 pip3 install pygame
 ```
-
+# Synchronous Developing Notes
 
 
 
