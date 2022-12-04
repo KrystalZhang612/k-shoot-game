@@ -39,7 +39,10 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
 ### Start playing KShoot Game and level up! Resume, pause and accumulate high scores anytime! Have fun!
 ### CTRL+C to quit the game and terminate local server. 
 # 🛠️ Developing Languages, Tools, and Techniques Needed
-
+[Python 3](https://www.python.org/downloads/)<br/> 
+[Vscode 1.73](https://code.visualstudio.com/)<br/> 
+[PyGame](https://www.pygame.org/news)<br/> 
+[pip](https://pypi.org/project/pip/)<br/>
 
 
 
