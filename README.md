@@ -18,6 +18,15 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
   <img src = "https://user-images.githubusercontent.com/72481348/205469268-78a3443a-f744-45e2-b6dc-e247badacfaf.mov">&nbsp;
   <img src = "https://user-images.githubusercontent.com/72481348/205469289-9eee8139-a00a-482e-9a41-aeb92467c910.mov">&nbsp;
   <img src = "https://user-images.githubusercontent.com/72481348/205469306-5d566dbe-909d-40ed-a6d4-e7afc93d7fdf.mov">&nbsp; 
-</p> 
+</p>
+
+
+# Build
+[Method to Run & Test the Project Locally]()<br/> 
+[Prerequisites & Setups]()<br/> 
+[Synchronous Developing Notes]()<br/> 
+[Testing Result]()<br/> 
+[Tags and Topics]()<br/>
+
 
 
