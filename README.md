@@ -50,6 +50,7 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
   
 </div>
 
+# Prerequisites & Setups
 
 
 
