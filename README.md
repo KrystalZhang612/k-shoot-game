@@ -27,6 +27,9 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
 [Synchronous Developing Notes]()<br/> 
 [Testing Result]()<br/> 
 [Tags and Topics]()<br/>
+# Contribution
+[Author]()
+
 
 
 
