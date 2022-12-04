@@ -22,7 +22,7 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
 
 
 # Build
-[Method to Run & Test the Project Locally]()<br/> 
+[Method to Run & Test the Project Locally](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/README.md#method-to-run--test-the-project-locally)<br/> 
 [Prerequisites & Setups]()<br/> 
 [Synchronous Developing Notes]()<br/> 
 [Testing Result]()<br/> 
@@ -32,6 +32,9 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
 # Compatiability
 [Pygame does not require setup tools with even ctypes to install. Truly portable. Supports Linux (pygame comes with most main stream linux distributions), Windows (95, 98, ME, 2000, XP, Vista, 64-bit Windows, etc), Windows CE, BeOS, MacOS, Mac OS X, FreeBSD, NetBSD, OpenBSD, BSD/OS, Solaris, IRIX, and QNX.](https://www.pygame.org/wiki/about#:~:text=Pygame%20does%20not%20require%20setup,Solaris%2C%20IRIX%2C%20and%20QNX.)
 # Method to Run & Test the Project Locally
+### Download the entire project to local directory
+### Use CMD or local Console to navigate to the local directory of the project folder.
+
 
 
 
