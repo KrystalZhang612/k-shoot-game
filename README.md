@@ -38,7 +38,7 @@ A classic Android-style shooting game using PyGame and Python. It is a classic a
 ### Run `python main.py runserver` to start running PyGame[Windows and Linux user]
 ### Start playing KShoot Game and level up! Resume, pause and accumulate high scores anytime! Have fun!
 ### CTRL+C to quit the game and terminate local server. 
-
+# 🛠️ Developing Languages, Tools, and Techniques Needed
 
 
 
