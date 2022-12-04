@@ -87,11 +87,20 @@ guns.append(pygame.transform.scale(pygame.image.load(f'assets/guns/{i} .png'), (
 [gun2.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/gun2.PNG)<br/> 
 [gun3.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/gun3.PNG)<br/>
 Draw levels with coordinates and different targets and initialize enemies coordinates:<br/> 
-[level1 birds.PNG]()<br/> 
-[level2 bubbles.PNG]()<br/> 
-[level3 alien spaceships.PNG]()<br/>
-
-
+[level1 birds.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level1%20birds.PNG)<br/> 
+[level2 bubbles.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level2%20bubbles.PNG)<br/> 
+[level3 alien spaceships.PNG](https://github.com/KrystalZhang612/KrystalZhang-KShoot-Game/blob/main/testing-result-kshoot-game-app/level3%20alien%20spaceships.PNG)<br/>
+## ***Check shots:***
+```python3
+ def check_shot(targets, coords):
+    global points
+    mouse_pos = pygame.mouse.get_pos()
+    for i in range(len(targets)):
+        for j in range(len(targets[i])):
+            if targets[i][j].collidepoint(mouse_pos):
+                coords[i].pop(j)
+                points += 10 + 10 * (i ** 2)
+```
 
 
 
