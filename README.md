@@ -160,6 +160,8 @@ Finally, Add pause, resume functionalities and background music in different lev
 # Tags and Topics
 
 android-style-shooting-game, python, pygame, arcade-styled-shooting-game, level-up-game, vscode, pip, pip3. 
+# NOTE 
+Connect Netifly to Github account when deploying a non-React App.
 # Author
 Krystal Zhang
 https://github.com/KrystalZhang612<hr>
