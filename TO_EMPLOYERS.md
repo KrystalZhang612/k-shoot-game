@@ -1,4 +1,4 @@
-```bash
+```text
 Dear Future Employer, 
 ## If you are redirected to this Markdown file, it indicates that this is a Python Web
 App that is experiencing deployment errors from Heroku based on Salesforce, There
